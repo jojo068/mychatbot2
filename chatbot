@@ -30,7 +30,7 @@
     </style>
 </head>
 <body>
-    <img src="URL_DE_LA_PHOTO_DE_SUSHI" alt="Photo de Sushi">
+    <img src="20250217_115217.jpg" alt="Photo de Sushi">
     <div id="chatbot-container">
         <iframe
             width="100%"
